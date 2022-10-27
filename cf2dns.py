@@ -17,8 +17,7 @@ KEY = "o1zrmHAF"
 #CM:移动 CU:联通 CT:电信  AB:境外 DEF:默认
 #修改需要更改的dnspod域名和子域名
 DOMAINS = {
-    "hostxxnit.com": {"@": ["CM","CU","CT"], "shop": ["CM", "CU", "CT"], "stock": ["CM","CU","CT"]},
-    "xxxx.me": {"@": ["CM","CU","CT"], "vv": ["CM","CU","CT"]}
+    "hanmatv.com": {"@": ["CM","CU","CT"], "www": ["CM", "CU", "CT"]},"ugome.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"bldgc.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"scxdexx.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"kingdicg.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"sxyzxh.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"tuozhan021.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"yjeky.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"huanyaad.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"sztimi.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"uzheba.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]},"jhhtech.com": {"@": ["CM","CU","CT"], "www":["CM","CU","CT"]}
 }
 
 #解析生效条数 免费的DNSPod相同线路最多支持2条解析
