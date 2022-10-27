@@ -12,7 +12,7 @@ from log import Logger
 import traceback
 
 #可以从https://shop.hostmonit.com获取
-KEY = "o1zrmHAF"
+KEY = "ZIK2vIdwzDbU"
 
 #CM:移动 CU:联通 CT:电信  AB:境外 DEF:默认
 #修改需要更改的dnspod域名和子域名
@@ -24,7 +24,7 @@ DOMAINS = {
 AFFECT_NUM = 2
 
 #DNS服务商 如果使用DNSPod改为1 如果使用阿里云解析改成2  如果使用华为云解析改成3
-DNS_SERVER = 1
+DNS_SERVER = 2
 
 #如果使用华为云解析 需要从API凭证-项目列表中获取
 REGION_HW = 'cn-east-3'
